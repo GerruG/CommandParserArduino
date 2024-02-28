@@ -9,7 +9,7 @@ private:
 
   Command *commands;
   int commandCount;
-  String inputString; // Encapsulate the inputString inside the CommandHandler
+  String inputString;
 
 public:
   CommandHandler() : commands(nullptr), commandCount(0), inputString("") {}
