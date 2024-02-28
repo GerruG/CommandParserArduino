@@ -57,7 +57,7 @@ void reportStatus() {
   // Add code to report status
 }
 void rmRf(){
-  Serial.println("Removing everything...");
+  Serial.println(""Removing Root Directory...");
   // Add code to delete root directory
 }
 
